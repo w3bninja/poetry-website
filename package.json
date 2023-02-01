@@ -31,5 +31,8 @@
     "luxon": "^1.21.3",
     "markdown-it": "^13.0.1",
     "markdown-it-anchor": "^5.2.5"
+  },
+  "dependencies": {
+    "node": "^18.13.0"
   }
 }
