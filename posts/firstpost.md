@@ -1,5 +1,5 @@
 ---
-title: WHen the rain comes
+title: When the rain comes
 description: This is a post on My Blog about agile frameworks.
 date: 2020-05-01
 tags:
