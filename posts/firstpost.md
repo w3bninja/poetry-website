@@ -1,26 +1,37 @@
 ---
-title: This is my first post.
+title: WHen the rain comes
 description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+date: 2020-05-01
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+When the sky opened, the rain came. 
+Water destroyed what we made
+The house was filled
+Some dreams were killed
+As our belongings started to fade
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+When the sky closed, the pain came.
+Igniting the fear from the past
+Flooding the ground
+Destroying the town
+A reminder that nothing will last.
 
-## Section Header
+When the sky opens, the rain comes
+A reminder of what was once ours
+Days turned to years
+We learned from our fears
+We healed but still there are scars
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+When the sky closes, the light shines
+reminding us of pain that subsides
+some memories sad
+others, not bad
+but peace is whats left behind.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+When the sky opens, the rain comes.
+Watering the ground to bring growth
+Beauty does follow,
+as the world seems less hollow
+Bringing new life from the earth.
